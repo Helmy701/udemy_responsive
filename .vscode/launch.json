@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "complete courses",
+            "cwd": "complete courses",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "complete courses (profile mode)",
+            "cwd": "complete courses",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "complete courses (release mode)",
+            "cwd": "complete courses",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "completecourses2",
+            "cwd": "completecourses2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "completecourses2 (profile mode)",
+            "cwd": "completecourses2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "completecourses2 (release mode)",
+            "cwd": "completecourses2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Ecomerce App",
+            "cwd": "Ecomerce App",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Ecomerce App (profile mode)",
+            "cwd": "Ecomerce App",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Ecomerce App (release mode)",
+            "cwd": "Ecomerce App",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "project 1",
+            "cwd": "project 1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "project 1 (profile mode)",
+            "cwd": "project 1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "project 1 (release mode)",
+            "cwd": "project 1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "project 2",
+            "cwd": "project 2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "project 2 (profile mode)",
+            "cwd": "project 2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "project 2 (release mode)",
+            "cwd": "project 2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "untitled",
+            "cwd": "untitled",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "untitled (profile mode)",
+            "cwd": "untitled",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "untitled (release mode)",
+            "cwd": "untitled",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "untitled1",
+            "cwd": "untitled1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "untitled1 (profile mode)",
+            "cwd": "untitled1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "untitled1 (release mode)",
+            "cwd": "untitled1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "test 1",
+            "cwd": "test\\test 1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "test 1 (profile mode)",
+            "cwd": "test\\test 1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "test 1 (release mode)",
+            "cwd": "test\\test 1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
